@@ -35,3 +35,9 @@ header {
 	bottom: 0;
 	right: 0;
 }
+.menu-opcoes a:hover {
+	color: #007dc6;
+}
+.menu-opcoes a:active {
+	color: #867dc6
+}

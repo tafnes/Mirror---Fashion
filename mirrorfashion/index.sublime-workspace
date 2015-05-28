@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fig",
+				"figure"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/destaque.html",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/css/destaque.css",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/css/estilos.css",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/css/sobre.css",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/index.html",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/mirror-fashion/mirrorfashion/sobre.html",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/index-2.html",
+		"/Users/voraxdeveloper/Documents/Projetos/tafnes/index.html",
+		"/Users/voraxdeveloper/Documents/rebeca/index.html",
+		"/Users/voraxdeveloper/Documents/webprojects/sodexo/sodexo/system/Previews/clube-de-beneficios.php",
+		"/Users/voraxdeveloper/Documents/Projetos/rebeca/index.html",
+		"/Users/voraxdeveloper/Documents/rebeca/scss/screen.scss",
+		"/Users/voraxdeveloper/Documents/rebeca/config.rb",
+		"/Users/voraxdeveloper/Documents/rebeca/css/normalize.css",
+		"/Users/voraxdeveloper/Documents/rebeca/css/screen.css",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/Block/Checkout.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/controllers/IndexController.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/controllers/CartController.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/controllers/AjaxController.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/Helper/Checkout.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/Block/Checkout/Onepage/Link.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/Block/Checkout/Cart.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/Idev/OneStepCheckout/Block/Checkout/Links.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/Mage.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/Oitoo_Cielo/form.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/catalog/category/view.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/layout/catalog.xml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/catalog/product/view.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/catalog/navigation/left.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/layout/catalogsearch.xml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/layout/catalog_msrp.xml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/layout/customer.xml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/customer/account/dashboard.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/page/static-page.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_download-app.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/page/download-app.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_category.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_review.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/customer/account/dashboard/info.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/customer/account/dashboard/address.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/customer/account/dashboard/hello.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_minha-conta.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/customer/account/navigation.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/page/1column.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/sales/order/recent.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_meuslivros.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/sales/mybooks.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/review/view.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/review/product/view/list.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/review/form.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/onestepcheckout/checkout.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/skin/frontend/vorax/tocalivros/scss/content/_checkout.scss",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/base/default/template/customercredit/payment/index.php.html",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/onestepcheckout/billing_fields.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/onestepcheckout/summary.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Core/Model/App.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Core/Controller/Response/Http.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Core/Controller/Varien/Front.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/local/MageWorx/CustomerCredit/Block/Payment/Form.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/catalog/product/view/addtocart.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Checkout/controllers/CartController.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Checkout/Controller/Action.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Checkout/controllers/OnepageController.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/onestepcheckout/payment_method.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/base/default/template/onestepcheckout/set_methods.phtml",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php",
+		"/Users/voraxdeveloper/Documents/tocalivros-magento/app/design/frontend/vorax/tocalivros/template/catalog/product/mos-list.phtml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/voraxdeveloper/Documents/tocalivros-magento"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sendPaymentFailedEmail",
+			"location",
+			"payment[method]",
+			"BlockNewsletter",
+			"news",
+			"2columns-right",
+			"category",
+			"newsletter",
+			"1column",
+			"review-stars",
+			"review-desc",
+			"_product",
+			"/form.phtml",
+			"frontend/base/default/template/customercredit/payment/form.phtml",
+			"$this->_goBack();",
+			"redirec",
+			"onestepcheckout-login-link",
+			"onestepcheckout-skin-generic",
+			"checkoutcontainer",
+			"onestepcheckout-threecolumns",
+			"input-password",
+			"onestepcheckout-numbers-1",
+			"billing_address_list",
+			"payment_form_apelidocielo",
+			"container_payment_method_BoletoBancario_standard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

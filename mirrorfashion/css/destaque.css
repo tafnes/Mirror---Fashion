@@ -39,3 +39,46 @@
 .destaque {
 	margin-top: 10px;
 }
+.destaque {
+  position: relative;
+}
+.pause
+.play {
+  display: block;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+.pause {
+  border-left: 10px solid #900;
+  border-right: 10px solid #900;
+  height: 30px;
+  width: 5px;
+}
+.play {
+  border-left: 25px solid #900;
+  border-bottom: 15px solid transparent;
+  border-top: 15px solid transparent;
+}
+.menu-departamentos li ul {
+  display: none;
+}
+.menu-departamentos li:hover ul {
+  display: block;
+}
+.menu-departamentos ul ul li {
+  background-color: #dcdcdc;
+}
+.menu-departamentos li li a:before {
+  content: '\272A';
+  padding-right: 3px;
+}
+.painel h2:before {
+  content: '\2756';
+  padding-right: 5px;
+  opacity: 0.4;
+}
+.busca {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
